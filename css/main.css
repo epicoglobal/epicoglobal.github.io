@@ -735,7 +735,6 @@ select.error {
 /* Sponsors section*/
 
 .block-sponsor img {
-    opacity: .2;
     width: 85%;
 }
 .block-sponsor img:hover {
