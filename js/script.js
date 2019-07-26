@@ -140,7 +140,7 @@
     // Instagram feed setup
 
     var instaFeed = new Instafeed({
-        get: 'user',
+        get: 'epico.global',
         userId: 'd0819597cf524412a321850e58428e32',
         accessToken: '5d054184d7bb43ba8b3d15414f09e335',
         limit: 6,
